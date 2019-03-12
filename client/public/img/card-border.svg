@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="727" height="315" viewBox="0 0 727 315">
+    <defs>
+        <path id="b" d="M1.33 124.799l1.37-1.375V99.826L1.33 98.45V2.494H81.01l3.19 3.2H98.42l1.82-1.825h65.897l1.922-1.93H90.397L88.475.012H70.88l-1.37 1.375H.227V289.98h531.46v-1.108H1.332z"/>
+        <filter id="a" width="106.8%" height="112.4%" x="-3.4%" y="-6.2%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+            <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+        </filter>
+        <path id="d" d="M703.143 1.38H178.745V2.49H702.04v110.133l-1.37 1.374v23.599l1.37 1.373v149.9h-72.614l-3.19-3.202h-14.223l-1.82 1.827h-65.897l-1.922 1.93h77.664l1.922 1.928h17.593l1.37-1.375h62.221z"/>
+        <filter id="c" width="106.9%" height="112.4%" x="-3.4%" y="-6.2%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+            <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(12 12)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="#FFF" xlink:href="#b"/>
+        </g>
+        <g transform="translate(12 12)">
+            <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+            <use fill="#FFF" xlink:href="#d"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,43 @@
+[
+    {
+        "id":"1",
+        "name":"shaka",
+        "score":"1200"
+    },
+    {
+        "id":"2",
+        "name":"Hani",
+        "score":"1000"
+    },
+    {
+        "id":"13",
+        "name":"sdfsd dfdf",
+        "score":"1000"
+    },
+
+    {
+        "id":"22",
+        "name":"Hani",
+        "score":"1000"
+    },
+    {
+        "id":"3",
+        "name":"sdfsd dfdf",
+        "score":"1000"
+    },
+    {
+        "id":"4",
+        "name":"saleel",
+        "score":"123"
+    },
+    {
+        "id":"5",
+        "name":"simu",
+        "score":"123"
+    },
+    {
+        "id":"88",
+        "name":"new guy",
+        "score":"1000"
+    }
+]

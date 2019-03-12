@@ -1,0 +1,92 @@
+{
+  "simA": {
+    "title": "Simulation A",
+    "scores": [
+      {
+        "name": "ToddM",
+        "avatar": "boy-1",
+        "score": "300"
+      },
+      {
+        "name": "ToddM",
+        "avatar": "boy-1",
+        "score": "300"
+      },
+      {
+        "name": "Amina",
+        "avatar": "girl-1",
+        "score": "275"
+      },
+      {
+        "name": "Marti",
+        "avatar": "boy-2",
+        "score": "275"
+      },
+      {
+        "name": "ash",
+        "avatar": "girl-1",
+        "score": "275"
+      },
+      {
+        "name": "Amina",
+        "avatar": "girl-1",
+        "score": "275"
+      }
+    ]
+  },
+  "simB": {
+    "title": "Simulation B",
+    "scores": [
+      {
+        "name": "Sal",
+        "avatar": "girl-1",
+        "score": "250"
+      },
+      {
+        "name": "Amina",
+        "avatar": "girl-7",
+        "score": "210"
+      },
+      {
+        "name": "Amina",
+        "avatar": "girl-7",
+        "score": "210"
+      },
+      {
+        "name": "Amina",
+        "avatar": "girl-7",
+        "score": "210"
+      },
+      {
+        "name": "DJ",
+        "avatar": "boy-1",
+        "score": "150"
+      }
+    ]
+  },
+  "simC": {
+    "title": "Simulation C",
+    "scores": [
+      {
+        "name": "ToddM",
+        "avatar": "boy-1",
+        "score": "200"
+      },
+      {
+        "name": "ToddM",
+        "avatar": "boy-1",
+        "score": "200"
+      },
+      {
+        "name": "ash",
+        "avatar": "girl-1",
+        "score": "175"
+      },
+      {
+        "name": "Amina",
+        "avatar": "girl-1",
+        "score": "175"
+      }
+    ]
+  }
+}
